@@ -1,0 +1,8 @@
+T | 0 | study for CS2103T
+D | 1 | iP tasks | 2024-09-20
+E | 1 | iP showcase | 2024-09-24 | 2024-09-25
+T | 0 | personalize ip
+D | 0 | return book | 2024-09-25
+E | 0 | ip showcase | 2024-09-27 | 2024-10-02
+T | 0 | personalize ip
+D | 0 | submit tp | 2024-10-17
